@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2_Variant4</string>
+    <string name="_1">Оберіть мову (Фрагмент 1):</string>
+    <string name="dd">ОК (Показати результат)</string>
+    <string name="_2">Результат (Фрагмент 2):</string>
+    <string name="cancel">Cancel (Очистити)</string>
+</resources>
